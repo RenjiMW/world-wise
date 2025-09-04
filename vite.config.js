@@ -10,6 +10,8 @@ import react from "@vitejs/plugin-react";
 //   },
 // });
 
+//"server": "json-server --watch data/cities.json --port 9000"
+
 export default defineConfig({
   base: "/",
   plugins: [react()],
