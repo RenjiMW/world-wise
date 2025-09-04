@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "49e0",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-08-03T13:53:21.390Z",
+      "notes": "",
+      "position": {
+        "lat": "40.40094763151963",
+        "lng": "-3.6996459960937504"
+      }
+    },
+    {
+      "id": "743f",
+      "cityName": "Moisenay",
+      "country": "France",
+      "emoji": "FR",
+      "date": "2025-08-03T13:53:30.845Z",
+      "notes": "",
+      "position": {
+        "lat": "48.574789910928864",
+        "lng": "2.7246093750000004"
+      }
+    },
+    {
+      "id": "58d1",
+      "cityName": "Varenguebec",
+      "country": "France",
+      "emoji": "FR",
+      "date": "2025-08-03T13:53:37.678Z",
+      "notes": "",
+      "position": {
+        "lat": "49.34302002289675",
+        "lng": "-1.4968872070312502"
+      }
+    },
+    {
+      "id": "96ef",
+      "cityName": "Ciudad Real",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-08-03T13:58:46.257Z",
+      "notes": "",
+      "position": {
+        "lat": "38.97222194853654",
+        "lng": "-3.9221191406250004"
+      }
+    },
+    {
+      "id": "c807",
+      "cityName": "San Roman de Cameros",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-08-03T14:07:09.604Z",
+      "notes": "",
+      "position": {
+        "lat": "42.22851735620852",
+        "lng": "-2.39501953125"
+      }
+    },
+    {
+      "id": "96a2",
+      "cityName": "Tremp",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-08-03T14:08:57.740Z",
+      "notes": "",
+      "position": {
+        "lat": "42.21224516288584",
+        "lng": "0.7250976562500001"
+      }
+    },
+    {
+      "id": "6519",
+      "cityName": "Deza",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2025-08-03T16:11:04.616Z",
+      "notes": "",
+      "position": {
+        "lat": "41.47566020027821",
+        "lng": "-2.0434570312500004"
+      }
+    }
+  ]
+}
